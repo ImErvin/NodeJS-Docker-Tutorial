@@ -1,8 +1,8 @@
 {
-  "name": "docker_web_app",
+  "name": "docker_api",
   "version": "1.0.0",
   "description": "Node.js on Docker",
-  "author": "First Last <first.last@example.com>",
+  "author": "Ervin Mamutov <github.com/imervin>",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
